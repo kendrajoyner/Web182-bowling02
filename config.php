@@ -4,6 +4,6 @@
 
 
 define('SERVER', 'localhost');
-define('USER', 'kendrajo_bowl');
-define('PW', 'wbip123');
-define('DB', 'kendrajo_bowlers');
+define('USER', 'bowling');
+define('PW', 'bowling');
+define('DB', 'bowling');
